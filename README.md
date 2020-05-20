@@ -1,4 +1,4 @@
-#Word Length Calculator
+# Word Length Calculator
 
 A very simple page to calculate the length of words.
 
