@@ -13,9 +13,10 @@ input {
 
 #output {
   margin-top: 45px;
+  margin-bottom: 45px;
   width: 100px;
   background-color: lightgreen;
-  margin-left: ;
+  margin-left: 46vw;
 }
 
 #btn {
